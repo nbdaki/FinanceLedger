@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FinanceLedger.App/FinanceLedger.App.csproj" />
+    <Project Path="src/FinanceLedger.Core/FinanceLedger.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FinanceLedger.Smoke/FinanceLedger.Smoke.csproj" />
+  </Folder>
+</Solution>
